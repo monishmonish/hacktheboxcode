@@ -3,9 +3,7 @@
 .estd:2k19
 
 ## CONTRIBUTOR
-.Developed By Monish Kumar R
-.
-.Contact: monish937@gmail.com
+.Developed By Monish Kumar
 
 ## RUN_SCRIPT
 .Run This Python Script By..
